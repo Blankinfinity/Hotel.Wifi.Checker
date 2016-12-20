@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Wifi.Access.Checker", "Hotel.Wifi.Access.Checker\Hotel.Wifi.Access.Checker.csproj", "{0314BC2A-DAD9-4D3B-BB91-0C2C0CCA7457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Wifi.SystemTray", "Hotel.Wifi.SystemTray\Hotel.Wifi.SystemTray.csproj", "{4429FE96-D31A-4344-90AD-356D118CBD1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexManager", "MutexManager\MutexManager.csproj", "{81318261-35E4-4705-A5F3-1909C2AB440A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0314BC2A-DAD9-4D3B-BB91-0C2C0CCA7457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0314BC2A-DAD9-4D3B-BB91-0C2C0CCA7457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0314BC2A-DAD9-4D3B-BB91-0C2C0CCA7457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0314BC2A-DAD9-4D3B-BB91-0C2C0CCA7457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4429FE96-D31A-4344-90AD-356D118CBD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4429FE96-D31A-4344-90AD-356D118CBD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4429FE96-D31A-4344-90AD-356D118CBD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4429FE96-D31A-4344-90AD-356D118CBD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81318261-35E4-4705-A5F3-1909C2AB440A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81318261-35E4-4705-A5F3-1909C2AB440A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81318261-35E4-4705-A5F3-1909C2AB440A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81318261-35E4-4705-A5F3-1909C2AB440A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
